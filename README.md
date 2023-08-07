@@ -1,35 +1,18 @@
-# Unstoppable Wallet
-
-We dream of a world… A world where private property is untouchable and market access is unconditional.
-
-That obsession led us to engineer a crypto wallet that is equally open to all, lives online forever and unconditionally protects your assets.
-
-Unstoppable is a powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. It provides non-custodial crypto and NFT storage, on-chain decentralized swaps, institutional grade analytics for cryptocurrency and NFT markets, extensive privacy controls and human oriented design. 
-
- - It is built with care and adheres to best programming practices and implementation standards in cryptocurrency world. Fully implemented on Kotlin.
- - It is fully peer-to-peer and works without any centrally managed servers. It can't be stopped, blocked or taken down.
-
-Such approach enables the wallet to operate anywhere and remain censorship-resistant. Only the user is in control of the money.
-
-More at [https://unstoppable.money](https://unstoppable.money)
-
-## Supported Android Versions
-
-Devices with Android versions 8.1 and above
-
-## Download
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/io.horizontalsystems.bankwallet/)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-     alt="Get it on Google Play"
-     height="80">](https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet)
-
-## Source Code
-
-[https://github.com/horizontalsystems/unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android)
-
-## License
-
-This wallet is open source and available under the terms of the MIT License.
+### Hi there 👋
+           
+<div style="display: flex"><br>
+ <img align="center" alt="gui-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+ <img align="center" alt="gui-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+ <img align="center" alt="gui-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+ <img align="center" alt="gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+ <img align="center" alt="gui-Next" height="30" width="auto" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png">
+ <img align="center" alt="gui-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+ <img align="center" alt="gui-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />     
+ <img align="center" alt="gui-Adonis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />  
+</div>
+ 
+ ##
+ 
+ <div>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
